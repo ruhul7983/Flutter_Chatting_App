@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130175337199",
+    "project_id": "snapspeak-70fe0",
+    "storage_bucket": "snapspeak-70fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130175337199:android:d27123bf6e3d0d37eb911a",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130175337199-bilkdrvbpkfc2d0pop2qck1rs1r6udm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "8f0cb3ec7fcdea50b013a7d48a15e947abea4708"
+          }
+        },
+        {
+          "client_id": "130175337199-7gt2igb2qcrehngq6mfej8qs7e4go2br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfl2l-C25taWuxQlafB9wQdPgwoZiy9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130175337199-7gt2igb2qcrehngq6mfej8qs7e4go2br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
